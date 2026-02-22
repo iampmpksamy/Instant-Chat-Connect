@@ -1,13 +1,13 @@
 <?php
 /**
  * @wordpress-plugin
- * Plugin Name:       Instant Chat Connect by Maalig
- * Plugin URI:        https://www.pmpksamy.com/Instant-chat-connect
+ * Plugin Name:       Instant Chat Connect
+ * Plugin URI:        https://www.pmpksamy.com/instant-chat-connect
  * Description:       Smart floating chat plugin with automation-ready architecture for modern WordPress websites.
- * Version:           1.0.2
+ * Version:           1.0.7
  * Author:            IAMPMPKSAMY(Call Sign: Maalig)
  * Author URI:        https://www.pmpksamy.com
- * Text Domain:       Instant Chat Connect
+ * Text Domain:       instant-chat-connect
  * Domain Path:       /languages
  * Requires at least: 6.0
  * Requires PHP:      8.0
