@@ -13,7 +13,7 @@ Lightweight WhatsApp floating chat plugin with customizable UI and automation-re
 
 == Description ==
 
-WP WhatsApp AI Connect allows you to add a customizable WhatsApp floating chat button to your WordPress website.
+instant Chat Connect allows you to add a customizable WhatsApp floating chat button to your WordPress website.
 
 Features:
 * Custom logo selection (WhatsApp / Business)
@@ -30,9 +30,6 @@ Features:
 3. Configure under the admin menu
 
 == Frequently Asked Questions ==
-
-= Does this integrate with WhatsApp Cloud API? =
-Not in the free version.
 
 = Is this plugin lightweight? =
 Yes. No external libraries are loaded.
