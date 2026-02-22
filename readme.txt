@@ -25,7 +25,7 @@ Features:
 
 == Installation ==
 
-1. Upload the plugin files to `/wp-content/plugins/wp-whatsapp-ai-connect`
+1. Upload the plugin files to `/wp-content/plugins/`
 2. Activate via WordPress Plugins menu
 3. Configure under the admin menu
 
