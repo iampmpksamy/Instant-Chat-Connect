@@ -1,5 +1,5 @@
 === Instant Chat Connect ===
-Stable tag: 1.0.0
+Stable tag: 1.0.2
 Contributors: iampmpksamy
 Tags: whatsapp, whatsapp chat, floating button, business whatsapp
 Requires at least: 5.8

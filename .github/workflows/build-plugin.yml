@@ -21,11 +21,11 @@ jobs:
 
       - name: Build clean WordPress ZIP
         run: |
-          zip -r wp-whatsapp-ai-connect.zip . -x "*.git*" "*.github*" "node_modules/*"
+          zip -r instant-chat-connect.zip . -x "*.git*" "*.github*" "node_modules/*"
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          files: wp-whatsapp-ai-connect.zip
+          files: instant-chat-connect.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

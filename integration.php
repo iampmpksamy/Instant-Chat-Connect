@@ -4,7 +4,7 @@
  * Plugin Name:       Instant Chat Connect by Maalig
  * Plugin URI:        https://www.pmpksamy.com/Instant-chat-connect
  * Description:       Smart floating chat plugin with automation-ready architecture for modern WordPress websites.
- * Version:           1.0.0
+ * Version:           1.0.2
  * Author:            IAMPMPKSAMY(Call Sign: Maalig)
  * Author URI:        https://www.pmpksamy.com
  * Text Domain:       Instant Chat Connect
