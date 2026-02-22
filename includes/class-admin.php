@@ -13,8 +13,8 @@ class Admin {
     public function menu() {
 
     add_menu_page(
-        'WP WhatsApp AI Connect',
-        'WP WhatsApp AI Connect',
+        'Instant Chat Connect',
+        'Instant Chat Connect',
         'manage_options',
         'maaligaiwwac-settings',
         [$this, 'settings_page'],
@@ -52,7 +52,7 @@ class Admin {
         ?>
 
         <div class="wrap">
-            <h1>WP WhatsApp AI Connect</h1>
+            <h1>Instant Chat Connect</h1>
 
             <form method="post" action="options.php">
 

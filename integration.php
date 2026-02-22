@@ -1,13 +1,13 @@
 <?php
 /**
  * @wordpress-plugin
- * Plugin Name:       WP WhatsApp AI Connect – Smart Chat & Automation
- * Plugin URI:        https://www.pmpksamy.com/wp-whatsapp-ai-connect
- * Description:       Smart WhatsApp floating chat plugin with automation-ready architecture for modern WordPress websites.
+ * Plugin Name:       Instant Chat Connect by Maalig
+ * Plugin URI:        https://www.pmpksamy.com/Instant-chat-connect
+ * Description:       Smart floating chat plugin with automation-ready architecture for modern WordPress websites.
  * Version:           1.0.0
  * Author:            IAMPMPKSAMY(Call Sign: Maalig)
  * Author URI:        https://www.pmpksamy.com
- * Text Domain:       wp-whatsapp-ai-connect
+ * Text Domain:       Instant Chat Connect
  * Domain Path:       /languages
  * Requires at least: 6.0
  * Requires PHP:      8.0
@@ -44,16 +44,3 @@ add_filter(
     }
 );
 
-add_filter('plugin_row_meta', 'wwac_add_pro_badge', 10, 2);
-
-function wwac_add_pro_badge($links, $file) {
-
-    if ( plugin_basename(__FILE__) === $file ) {
-
-        $pro_link = '<span style="color:#d63638;font-weight:600;margin-left:8px;">PRO</span>';
-
-        $links[] = $pro_link;
-    }
-
-    return $links;
-}
