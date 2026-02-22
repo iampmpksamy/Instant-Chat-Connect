@@ -1,10 +1,10 @@
 === Instant Chat Connect ===
 Contributors: iampmpksamy
-Tags: chat, floating chat, whatsapp chat, contact button
-Requires at least: 5.8
-Tested up to: 6.9
-Requires PHP: 7.4
-Stable tag: 1.0.7
+Tags: chat, floating chat, contact button, messaging
+Requires at least: 6.0
+Tested up to: 6.0
+Requires PHP: 8.0
+Stable tag: 1.0.8
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,7 @@ Instant Chat Connect allows you to add a customizable floating chat button to yo
 
 The plugin is lightweight, performance-focused, and does not collect or transmit any user data.
 
-Features:
+== Features ==
 
 * Custom logo selection (standard or business style)
 * Icon size control
@@ -52,20 +52,16 @@ Yes. It does not load external libraries or remote scripts.
 
 == Changelog ==
 
-= 1.0.7 =
+= 1.0.8 =
 * WordPress.org compliance fixes
-* Text domain correction
 * Stable tag synchronization
-* Tested up to updated
-* Minor improvements and cleanup
-
-= 1.0.6 =
-* Version consistency improvements
+* Header alignment improvements
+* Minor cleanup and optimization
 
 = 1.0.0 =
 * Initial release
 
 == Upgrade Notice ==
 
-= 1.0.7 =
-Compatibility and compliance improvements for WordPress.org submission.
+= 1.0.8 =
+Compliance and structural improvements.
